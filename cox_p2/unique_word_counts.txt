@@ -1,0 +1,4 @@
+'Hi' occurs 2 times.
+'Maybe' occurs 3 times.
+'Dude' occurs 1 times.
+'Hello' occurs 4 times.
